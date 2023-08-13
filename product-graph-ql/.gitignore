@@ -18,16 +18,29 @@ target/
 *.iws
 *.iml
 *.ipr
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
+/.settings/
 
 ### VS Code ###
 .vscode/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+*.log.*
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven specific
+mvnw
+mvnw.cmd
+.mvn/
+
+# Ignore compiled JARs, WARs, and EARs
+*.jar
+*.war
+*.ear

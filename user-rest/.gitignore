@@ -1,0 +1,46 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/.settings/
+
+### VS Code ###
+.vscode/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+*.log.*
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven specific
+mvnw
+mvnw.cmd
+.mvn/
+
+# Ignore compiled JARs, WARs, and EARs
+*.jar
+*.war
+*.ear

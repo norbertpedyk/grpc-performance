@@ -1,13 +1,13 @@
-package pl.pedyk.grpcperformance;
+package pl.pedyk.productrest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GrpcPerformanceApplication {
+public class ProductRestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GrpcPerformanceApplication.class, args);
+        SpringApplication.run(ProductRestApplication.class, args);
     }
 
 }
