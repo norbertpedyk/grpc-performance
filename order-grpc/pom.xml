@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>pl.pedyk</groupId>
-    <artifactId>order-grpc</artifactId>
+    <artifactId>orderItem-grpc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>order-grpc</name>
-    <description>order-grpc</description>
+    <name>orderItem-grpc</name>
+    <description>orderItem-grpc</description>
     <properties>
         <java.version>17</java.version>
     </properties>

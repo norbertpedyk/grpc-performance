@@ -1,10 +1,10 @@
-package pl.pedyk.rest;
+package pl.pedyk.userrest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestApplicationTests {
+class UserRestApplicationTests {
 
     @Test
     void contextLoads() {

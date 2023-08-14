@@ -1,13 +1,13 @@
-package pl.pedyk.rest;
+package pl.pedyk.userrest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestApplication {
+public class UserRestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RestApplication.class, args);
+        SpringApplication.run(UserRestApplication.class, args);
     }
 
 }
