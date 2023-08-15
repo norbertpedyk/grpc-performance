@@ -1,13 +1,13 @@
-package pl.pedyk.grpc;
+package pl.pedyk.graphql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GrpcApplication {
+public class UserGraphQlApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GrpcApplication.class, args);
+        SpringApplication.run(UserGraphQlApplication.class, args);
     }
 
 }

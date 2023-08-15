@@ -14,6 +14,5 @@ public class UserItem {
     private String username;
     private String email;
 
-    // Getters and setters
 }
 

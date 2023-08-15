@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>pl.pedyk</groupId>
-    <artifactId>graph-ql</artifactId>
+    <artifactId>user-graph-ql</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>graph-ql</name>
-    <description>graph-ql</description>
+    <name>user-graph-ql</name>
+    <description>user-graph-ql</description>
     <properties>
         <java.version>17</java.version>
     </properties>
