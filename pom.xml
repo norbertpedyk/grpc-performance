@@ -5,22 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pl.pedyk</groupId>
-    <artifactId>grpc-performance</artifactId>
+    <artifactId>graphql-performance</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>inventory-graph-ql</module>
-        <module>inventory-grpc</module>
-        <module>inventory-rest</module>
-        <module>product-graph-ql</module>
-        <module>product-grpc</module>
-        <module>product-rest</module>
-        <module>orderItem-graph-ql</module>
-        <module>orderItem-grpc</module>
-        <module>orderItem-rest</module>
-        <module>user-graph-ql</module>
-        <module>user-grpc</module>
-        <module>user-rest</module>
+        <module>mmsr-report-graph-ql</module>
+        <module>mmsr-report-rest</module>
     </modules>
 
     <dependencyManagement>

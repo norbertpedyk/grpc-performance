@@ -1,0 +1,5 @@
+type MmsrReport {
+    id: ID!
+    productType: String
+    referenceTradeNumber: String
+}

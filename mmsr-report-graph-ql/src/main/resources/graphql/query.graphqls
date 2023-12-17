@@ -1,0 +1,3 @@
+type Query {
+    mmsrReport(id: ID): MmsrReport
+}
